@@ -1,0 +1,10 @@
+name: Permissions
+main: me.Azer.Permissions.PermMain
+version: 1.0
+author: Azer
+commands:
+   permissions:
+      description: General Permissions command
+      usage: /<command>
+      permission: permissions.use
+      permission-message: You don't have <permission>
